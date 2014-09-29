@@ -1,4 +1,4 @@
-# Our Brand New Epic Product based on User Research and Lean Startup
+# Wait! We found something!
 
 This is some brand new text in commit #2!
 
